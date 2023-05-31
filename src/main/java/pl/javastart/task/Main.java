@@ -13,9 +13,6 @@ public class Main {
 
         System.out.println(name1 + " " + producer1 + " " + price1 + "zł");
         System.out.println(name2 + " " + producer2 + " " + price2 + "zł");
-
         //lub System.out.printf("%s %s %szł", name1, producer1, price1);
-
-
     }
 }
